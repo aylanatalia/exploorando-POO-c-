@@ -8,6 +8,12 @@ namespace exemploPOO_C_.Models
     //indicação de onde ele vai herdar as característica
     public class Aluno : Pessoa
     {
+        //construtor por herança
+        public Aluno(string nome) : base(nome)
+        {
+            
+        }
+
         //a classe Aluno vai herdar propriedades da classe pessoa, pois aluno é uma pessoa 
         public double Nota { get; set; }
 

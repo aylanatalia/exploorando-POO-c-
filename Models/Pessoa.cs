@@ -7,6 +7,12 @@ namespace exemploPOO_C_.Models
 {
     public class Pessoa
     {
+
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
+
         //esse é um exemplo de abstração, onde só pegamos as informações importantes para nossa finalidade
         //isso é uma classe, ou seja, uma representação de objeto da vida real, que é uma pessoa com nome e idade e ela irá se apresentar com esses dados 
         public string Nome { get; set; }

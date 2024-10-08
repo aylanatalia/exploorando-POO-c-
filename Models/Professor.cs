@@ -5,8 +5,15 @@ using System.Threading.Tasks;
 
 namespace exemploPOO_C_.Models
 {
-    public class Professor : Pessoa
+    //classe selada, não pode ser herdada, caso eu coloque a palavra sealed no método, esse método também não pode ser herdado
+    public sealed class Professor : Pessoa
     {
+        //construtor por heraça
+        public Professor(string nome) : base(nome)
+        {
+            
+        }
+
         public decimal Salario { get; set; }
 
         //sobscrevendo um método
