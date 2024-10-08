@@ -12,7 +12,8 @@ namespace exemploPOO_C_.Models
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public void Apresentar()
+        //esswe virtual representa que esse método pode ser subscrito
+        public virtual void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
         }
