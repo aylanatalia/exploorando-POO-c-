@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\bin\Debug\net9.0\exemploPOO-C#.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\bin\Debug\net9.0\exemploPOO-C#.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\bin\Debug\net9.0\exemploPOO-C#.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\bin\Debug\net9.0\exemploPOO-C#.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\bin\Debug\net9.0\exemploPOO-C#.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.sourcelink.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\refint\exemploPOO-C#.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\exemploPOO-C#.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\exemploPOO-C#\obj\Debug\net9.0\ref\exemploPOO-C#.dll
